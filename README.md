@@ -79,3 +79,9 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+#####  3 questions: What contributed most to your learning? The Git Pull request walkthrough was the most usefull. This however was also the shortest part of the presentation ~30 min. =( 
+
+  WHat was the least helpful to your learning?  The entire unix lineup just reiterated the treehouse webinar. I would have preferred those hours soent on merge conflicts. Also the 2 hour mac setup for me on a windows machine was a bit tedious.
+  
+  Would you reccomend this workshop to a friend 0-10? 4
